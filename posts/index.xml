@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Busralog</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Busralog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Assignment For My Students</title>
+      <link>https://example.org/posts/game-assignment-for-my-students/</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.org/posts/game-assignment-for-my-students/</guid>
+      <description>&lt;p&gt;The spring semester has started and I need to prepare a term project assignment for my students. It will be a game project and they will implement it with Java and JavaFx. I know, Java is not very exciting for game development but it is their first year and so far they only learned Java. The professor wants to make them complete a project with the things they learned.&#xA;One day, we were brainstorming game ideas with the other teaching assistant and we decided to make a tower defense game. It will be suitable for our students. It&amp;rsquo;s not very hard to implement but also still challenging on its own ways.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
